@@ -31,6 +31,7 @@ public class MainActivity extends FragmentActivity {
         info = (TextView)findViewById(R.id.textView);
         loginButton = (LoginButton) findViewById(R.id.login_button);
 
+        // Login Button Onclick Listener
         loginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
 
             @Override
