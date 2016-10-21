@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dtail Trans FB</string>
+    <string name="facebook_app_id">350338551965349</string>
+    <string name="fb_login_protocol_scheme">fb350338551965349</string>
+</resources>
