@@ -1,5 +1,5 @@
 # DtailTransFB
-Its latest Facbook Loing App.
+Its latest Facbook Login App.
 
 ###### Updated to Android API Level 24
 ###### Min Android API Level 15
