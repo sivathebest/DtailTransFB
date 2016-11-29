@@ -36,7 +36,7 @@ public class MainActivity extends FragmentActivity {
 
             @Override
             public void onSuccess(LoginResult loginResult) {
-                // App code
+                // After login can get the user details here
                 info.setText(
                         "User ID: "
                                 + loginResult.getAccessToken().getUserId()
